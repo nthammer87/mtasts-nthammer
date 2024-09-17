@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: mail.nthammer.com.au
+mx: *.nthammer.com.au
+mx: backupmx.nthammer.com.au
+max_age: 604800
